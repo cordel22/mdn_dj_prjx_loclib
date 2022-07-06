@@ -38,8 +38,7 @@ DEBUG = True
 
 DEBUG = os.environ.get('DJANGO_DEBUG', '') != 'False'
 
-ALLOWED_HOSTS = ['shielded-waters-86759.herokuapp.com']
-
+ALLOWED_HOSTS = ['https://dry-stream-78799.herokuapp.com']
 
 # Application definition
 
